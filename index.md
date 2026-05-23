@@ -2,25 +2,37 @@
 
 **IEEE CBMS 2026 — Supplementary Materials**
 
-This page provides supplementary materials for the poster presentation at IEEE CBMS 2026.
+This page provides supplementary materials for the poster presentation accepted at IEEE CBMS 2026.
 
 ## Overview
 
-This project presents a human-centered XAI pipeline for AI embedded in medical equipment. The pipeline analyzes the internal behavior of an AI-based classification component and translates structured technical artifacts into accessible XAI reports for healthcare professionals and clinical decision makers.
+This project presents a human-centered explainable AI (XAI) pipeline for embedded AI in medical equipment, with an initial validation using clinical tabular datasets.
 
-## Materials
+The pipeline analyzes the internal behavior of an AI-based classification component through feature selection, predictive modeling, and structured technical artifacts. These artifacts are then used to generate accessible XAI reports for healthcare professionals and clinical decision makers.
+
+The goal is not to provide patient-level diagnosis or replace clinical judgment, but to support a more transparent evaluation of how embedded AI behaves internally.
+
+## Available Materials
 
 - Poster PDF
-- Extended experimental results
+- Extended methodological notes
+- Comparative results summary
 - Pipeline overview
 - Fixed-prompt LLM reporting details
+- Human evaluation summary
 - Implementation artifacts
 
-## Repository contents
+## Repository Status
 
-Materials will be progressively updated before and after the conference.
+This repository supports the IEEE CBMS 2026 poster presentation.
 
-## Citation
+Materials will be progressively updated before and after the conference. A final archival version will be released later through Zenodo.
+
+## Future Work
+
+Future work includes broader datasets, expanded technical configurations, real-world medical equipment scenarios, and richer human evaluation.
+
+## Citation and DOI
 
 A Zenodo DOI will be added after the final archival release.
 
@@ -28,3 +40,6 @@ A Zenodo DOI will be added after the final archival release.
 
 Mauricio Priego  
 Universidad de Guadalajara
+
+Email: mauricio.priego@academicos.udg.mx  
+Alternative email: mpriegom@gmail.com
