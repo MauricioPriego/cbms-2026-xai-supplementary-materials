@@ -81,3 +81,15 @@ These results should be interpreted within the scope of the current initial vali
 The purpose of the extended results is to provide additional transparency beyond the compact poster table, particularly for metrics such as Precision and Recall, which are relevant in medical classification contexts.
 
 The results support the analysis of the technical layer of the pipeline. They are not intended to provide patient-level diagnostic conclusions.
+
+## Feature-Selection Behavior Across Datasets
+
+The following figure summarizes the distribution of feature-selection frequencies across datasets.
+
+![Feature-selection behavior across datasets](../assets/feature_selection_behavior_by_dataset.png)
+
+*Figure. Feature-selection frequencies indicate how consistently features were selected across folds. Higher values indicate more recurrently selected features.*
+
+The results show that feature-selection behavior varied across datasets. This suggests that the internal behavior of the embedded AI does not remain equally stable in every data context.
+
+In particular, the proportion of features selected with high, moderate, or low consistency differed across Breast Cancer, Heart Attack / Cleveland, and Diabetes. This supports the interpretation that system-level explainability should consider dataset-dependent behavior rather than assuming a single uniform pattern across medical classification tasks.
