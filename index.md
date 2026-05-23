@@ -42,6 +42,6 @@ A Zenodo DOI will be added after the final archival release.
 
 **Contact:** Mauricio Priego  
 Universidad de Guadalajara  
-mauricio.priego@academicos.udg.mx  
+
 Email: mauricio.priego@academicos.udg.mx  
 Alternative email: mpriegom@gmail.com
