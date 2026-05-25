@@ -1,3 +1,13 @@
+# Example LLM-Generated XAI Report
+
+The following report is reproduced as originally generated and used in the human evaluation. It has not been edited after the evaluation.
+
+This example illustrates the type of human-readable XAI report produced from structured JSON artifacts. Some expressions may require further calibration in future versions to avoid implying clinical validation, diagnostic reliability, or patient-safety guarantees.
+
+---
+
+## Original LLM-Generated Report Used in the Human Evaluation
+
 ### *System Purpose*
 
 This artificial intelligence–based decision-support system is designed to assist healthcare professionals by classifying structured clinical records into two categories. The system processes structured patient information to generate computational outputs that may require further review. It does not provide diagnosis, treatment recommendations, or clinical decision-making. Its outputs are intended solely as computational support.
