@@ -54,6 +54,8 @@ The prompt instructed the LLM to:
 
 The output of the LLM was a human-readable XAI report.
 
+An example of the original LLM-generated report used in the human evaluation is available here: [Example LLM-Generated XAI Report](example_llm_generated_xai_report.md).
+
 The report was intended to help healthcare professionals understand:
 
 - which variables were prioritized by the system;
