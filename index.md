@@ -36,12 +36,6 @@ Future work includes broader datasets, expanded technical configurations, real-w
 
 A Zenodo DOI will be added after the final archival release.
 
-## Authors and Contact
+## Authors
 
 **Authors:** Mauricio Priego, Itzel Aranguren, Arturo Valdivia, Diego Rendon-Aguilar, Diego Oliva, Francisco J. Alvarez-Padilla
-
-**Contact:** Mauricio Priego  
-Universidad de Guadalajara  
-
-Email: mauricio.priego@academicos.udg.mx  
-Alternative email: mpriegom@gmail.com
