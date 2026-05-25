@@ -39,6 +39,8 @@ Several prompt formulations were explored during development before selecting a 
 
 The selected prompt was kept fixed across report generation to maintain consistency in tone, structure, and safeguards.
 
+The fixed prompt used for the final reporting workflow is available here: [Fixed Prompt for LLM-Based XAI Report Generation](fixed_prompt_llm_reporting.md).
+
 The prompt instructed the LLM to:
 
 - summarize system-level behavior;
