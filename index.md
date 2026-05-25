@@ -18,7 +18,7 @@ The goal is not to provide patient-level diagnosis or replace clinical judgment,
 - [Extended methodological notes](materials/extended_methodological_notes.md)
 - [Comparative results summary](materials/comparative_results_summary.md)
 - Pipeline overview
-- Fixed-prompt LLM reporting details
+- [Fixed-prompt LLM reporting details](materials/llm_reporting_details.md)
 - Human evaluation summary
 - Implementation artifacts
 
