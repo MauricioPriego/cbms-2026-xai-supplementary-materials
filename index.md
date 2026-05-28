@@ -14,7 +14,7 @@ The goal is not to provide patient-level diagnosis or replace clinical judgment,
 
 ## Available Materials
 
-- Poster PDF
+- [Poster PDF](assets/cbms_2026_poster.pdf)
 - [Extended methodological notes](materials/extended_methodological_notes.md)
 - [Comparative results summary](materials/comparative_results_summary.md)
 - Pipeline overview
