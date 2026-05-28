@@ -20,7 +20,7 @@ The goal is not to provide patient-level diagnosis or replace clinical judgment,
 - [Pipeline overview](materials/pipeline_overview.md)
 - [Fixed-prompt LLM reporting details](materials/llm_reporting_details.md)
 - [Human evaluation summary](materials/human_evaluation_summary.md)
-- Implementation artifacts
+- [Implementation artifacts](materials/implementation_artifacts.md)
 
 ## Repository Status
 
