@@ -17,7 +17,7 @@ The goal is not to provide patient-level diagnosis or replace clinical judgment,
 - [Poster PDF](assets/cbms_2026_poster.pdf)
 - [Extended methodological notes](materials/extended_methodological_notes.md)
 - [Comparative results summary](materials/comparative_results_summary.md)
-- Pipeline overview
+- [Pipeline overview](materials/pipeline_overview.md)
 - [Fixed-prompt LLM reporting details](materials/llm_reporting_details.md)
 - Human evaluation summary
 - Implementation artifacts
